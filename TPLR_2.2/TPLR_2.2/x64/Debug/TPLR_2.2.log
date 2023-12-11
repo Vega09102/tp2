@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\тп2\TPLR_2.2\TPLR_2.2\main.cpp(19,16): warning C4305: аргумент: усечение из "int" в "const _Elem"
+          with
+          [
+              _Elem=char
+          ]
+D:\тп2\TPLR_2.2\TPLR_2.2\main.cpp(19,16): warning C4309: аргумент: усечение константного значения
+  LINK : не найден или не выполнена сборка D:\тп2\TPLR_2.2\x64\Debug\TPLR_2.2.exe при последней инкрементной компоновке; выполняется полная компоновка
+  TPLR_2.2.vcxproj -> D:\тп2\TPLR_2.2\x64\Debug\TPLR_2.2.exe
